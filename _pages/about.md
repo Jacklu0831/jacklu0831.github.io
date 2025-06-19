@@ -22,6 +22,6 @@ I'm a second-year Computer Science Ph.D. student in the <a href="https://wp.nyu.
 
 During my undergrad, I did a mixture of research and software engineering work at <a href="https://research.nvidia.com/labs/toronto-ai/">NVIDIA</a>,  <a href="https://waabi.ai/">Waabi/Uber-ATG</a>,  <a href="https://www.ibm.com/products/cognos-analytics">IBM</a>,  <a href="https://www.bloomberg.com/news/articles/2024-03-14/apple-aapl-buys-canadian-ai-startup-darwinai-as-part-of-race-to-add-features">DarwinAI</a>, and <a href="https://www.deeptrekker.com/">Deep Trekker</a>. I was fortunate to have worked with <a href="https://www.cs.toronto.edu/~urtasun/">Prof. Raquel Urtasun</a>, <a href="https://www.cs.utoronto.ca/~fidler/">Prof. Sanja Fidler</a>, and <a href="https://www.eng.uwaterloo.ca/~a28wong/">Prof. Alexander Wong</a>.
 
-I'm interested in discussions about collaborations, mentorship, and research in general. If you would like to work together, please <a href="mailto:yl11330@nyu.edu">email me</a> and we can set up a virtual/in-person chat.
+I'm interested in discussions about collaborations, mentorship, and research in general. You can <a href="mailto:yl11330@nyu.edu">email me</a> for a virtual/in-person chat.
 
 <!-- You can find my CV <a href="assets/pdf/CV.pdf">here</a>. -->
