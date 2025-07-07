@@ -99,8 +99,6 @@ GEM
       jekyll (>= 3.0)
     jekyll-imagemagick (1.4.0)
       jekyll (>= 3.4)
-    jekyll-jupyter-notebook (0.0.6)
-      jekyll
     jekyll-link-attributes (1.0.1)
     jekyll-minifier (0.1.10)
       cssminify2 (~> 2.0)
@@ -147,6 +145,7 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.7.0)
     loofah (2.22.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
@@ -167,6 +166,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.18.2-x86_64-linux-gnu)
       racc (~> 1.4)
+    observer (0.1.2)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.5)
@@ -213,7 +213,6 @@ DEPENDENCIES
   jekyll-feed
   jekyll-get-json
   jekyll-imagemagick
-  jekyll-jupyter-notebook
   jekyll-link-attributes
   jekyll-minifier
   jekyll-paginate-v2
@@ -224,7 +223,9 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
+  logger
   mini_racer
+  observer
   unicode_utils
   webrick
 

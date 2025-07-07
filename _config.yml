@@ -107,7 +107,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  I like caffeine more than sleep
+  Surviving the Plato's Cave
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -253,7 +253,6 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
