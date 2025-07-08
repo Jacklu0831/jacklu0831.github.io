@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-01 00:00:00-0400
+date: 2024-01-29 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I started my PhD in Computer Science at NYU, advised by <a href="https://mengyeren.com/">Mengye Ren</a>.
+Our work, <a href="https://waabi.ai/scenecontrol/">SceneControl: Diffusion for Controllable Traffic Scene Generation</a>, is accepted by ICRA 2024.
