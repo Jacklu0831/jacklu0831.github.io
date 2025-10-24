@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been selected to receive the <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp">NSERC PGS-D Scholarship</a> to support my PhD at NYU.
+I was selected to receive the <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp">NSERC PGS-D Scholarship</a> to support my PhD at NYU.

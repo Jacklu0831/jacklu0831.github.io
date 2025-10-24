@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work, <a href="https://procreate-diffusion.github.io/">ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation</a>, is accepted by ECCV 2024.
+Our work, <a href="https://procreate-diffusion.github.io/">ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation</a>, was accepted by ECCV 2024.

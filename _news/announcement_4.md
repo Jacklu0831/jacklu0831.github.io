@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work, <a href="https://waabi.ai/scenecontrol/">SceneControl: Diffusion for Controllable Traffic Scene Generation</a>, is accepted by ICRA 2024.
+Our work, <a href="https://waabi.ai/scenecontrol/">SceneControl: Diffusion for Controllable Traffic Scene Generation</a>, was accepted by ICRA 2024.
