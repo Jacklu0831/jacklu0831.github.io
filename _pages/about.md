@@ -27,7 +27,7 @@ I'm currently interested in:
 </ul>
 <!-- To achieve these goals, I build upon various methods from test-time training, in-context learning, and diffusion guidance. -->
 
-Previously, I did research and software engineering for autonomous driving and ML for healthcare at <a href="https://research.nvidia.com/labs/toronto-ai/">NVIDIA</a>,  <a href="https://waabi.ai/">Waabi/Uber-ATG</a>,  <a href="https://www.ibm.com/products/cognos-analytics">IBM</a>, and <a href="https://www.bloomberg.com/news/articles/2024-03-14/apple-aapl-buys-canadian-ai-startup-darwinai-as-part-of-race-to-add-features">DarwinAI</a>. I was fortunate to have worked with <a href="https://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>, <a href="https://www.cs.utoronto.ca/~fidler/">Sanja Fidler</a>, and <a href="https://www.eng.uwaterloo.ca/~a28wong/">Alexander Wong</a>.
+Previously, I did research and software engineering for autonomous driving and ML for health at <a href="https://research.nvidia.com/labs/toronto-ai/">NVIDIA</a>,  <a href="https://waabi.ai/">Waabi/Uber-ATG</a>,  <a href="https://www.ibm.com/products/cognos-analytics">IBM</a>, and <a href="https://www.bloomberg.com/news/articles/2024-03-14/apple-aapl-buys-canadian-ai-startup-darwinai-as-part-of-race-to-add-features">DarwinAI</a>. I was fortunate to have worked with <a href="https://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>, <a href="https://www.cs.utoronto.ca/~fidler/">Sanja Fidler</a>, and <a href="https://www.eng.uwaterloo.ca/~a28wong/">Alexander Wong</a>.
 
 I'm happy to discuss collaboration, mentorship, and research in general. You can <a href="mailto:yl11330@nyu.edu">email me</a> for a virtual or in-person chat. My office is at 60 5th Ave, New York.
 
