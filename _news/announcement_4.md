@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-29 00:00:00-0400
+date: 2025-07-07 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Our work, <a href="https://waabi.ai/scenecontrol/">SceneControl: Diffusion for Controllable Traffic Scene Generation</a>, was accepted by ICRA 2024.
+<a href="https://arxiv.org/abs/2507.04221">Context Tuning for In-Context Optimization</a> is accepted by the ICML 2025 Test-Time Adaptation Workshop.
