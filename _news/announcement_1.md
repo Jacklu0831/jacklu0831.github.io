@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join NVIDIA as a research intern this Summer to work on reasoning vision-language-action models.
+I will join NVIDIA as a research intern this summer to work on reasoning vision-language-action models :)
