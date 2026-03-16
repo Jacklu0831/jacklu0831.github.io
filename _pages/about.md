@@ -22,13 +22,13 @@ I'm a third-year Computer Science Ph.D. student in the <a href="https://wp.nyu.e
 
 I'm currently interested in:
 <ul>
-  <li><b>LLM Reasoning</b>: understanding and improving how LLMs solve and verify problems that require complex reasoning.</li>
-  <li><b>Adaptive Models and Agents</b>: efficiently adapting diffusion and language models to out-of-distribution tasks, new knowledge, and dynamic environments.</li>
+  <li><b>LLM Reasoning and Test-Time Scaling</b>: understanding and improving how LLMs adapt, reason, and self-improve at inference time.</li>
+  <li><b>World Models and Embodied Reasoning</b>: learning world models from video and interaction data and leveraging them as simulators, planners, and co-training objectives.</li>
 </ul>
 <!-- To achieve these goals, I build upon various methods from test-time training, in-context learning, and diffusion guidance. -->
 
 Previously, I did research and software engineering for autonomous driving and ML for health at <a href="https://research.nvidia.com/labs/toronto-ai/">NVIDIA</a>,  <a href="https://waabi.ai/">Waabi/Uber-ATG</a>,  <a href="https://www.ibm.com/products/cognos-analytics">IBM</a>, and <a href="https://www.bloomberg.com/news/articles/2024-03-14/apple-aapl-buys-canadian-ai-startup-darwinai-as-part-of-race-to-add-features">DarwinAI</a>. I was fortunate to have worked with <a href="https://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>, <a href="https://www.cs.utoronto.ca/~fidler/">Sanja Fidler</a>, and <a href="https://www.eng.uwaterloo.ca/~a28wong/">Alexander Wong</a>.
 
-I'm happy to discuss collaboration, mentorship, and research in general. You can <a href="mailto:yl11330@nyu.edu">email me</a> for a virtual or in-person chat. My office is at 60 5th Ave, New York.
+I'm happy to discuss collaboration, mentorship, and research in general. You can <a href="mailto:yl11330@nyu.edu">email me</a> for a virtual or in-person chat. My office is at <a href="https://cds.nyu.edu/">60 5th Ave, New York</a>.
 
 <!-- You can find my CV <a href="assets/pdf/CV.pdf">here</a>. -->
