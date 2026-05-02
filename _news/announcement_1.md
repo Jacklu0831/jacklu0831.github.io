@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-01-31 00:00:00-0400
+date: 2026-05-02 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I will join NVIDIA as a research intern this summer to work on reasoning VLA/World models :)
+<a href="https://arxiv.org/abs/2507.04221">Context Tuning for In-Context Optimization</a> is accepted by ICML 2026.

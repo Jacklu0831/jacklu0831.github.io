@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-25 00:00:00-0400
+date: 2024-07-01 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I was selected to receive the <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp">NSERC PGS-D Scholarship</a> to support my PhD at NYU.
+<a href="https://procreate-diffusion.github.io/">ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation</a> is accepted by ECCV 2024.
