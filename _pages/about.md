@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: [Affiliations](#). Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,17 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a third-year Computer Science Ph.D. student in the <a href="https://wp.nyu.edu/cilvr/">CILVR</a> lab at <a href="https://cims.nyu.edu/dynamic/">NYU Courant</a>, advised by <a href="https://mengyeren.com/">Mengye Ren</a> and collaborating with <a href="https://gregdurrett.github.io/">Greg Durrett</a> and <a href="https://maga33.github.io/">Seunghoon Hong</a>. My research is supported by the <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp">NSERC PGS-D Scholarship</a>. Prior to joining NYU, I received my bachelor's degree in Computer Science and Mathematics from the <a href="https://uwaterloo.ca/">University of Waterloo</a>.
+Hey! I'm a PhD candidate in the [CILVR](https://wp.nyu.edu/cilvr/) lab at [NYU Courant](https://cims.nyu.edu/dynamic/), advised by [Mengye Ren](https://mengyeren.com/) and supported by [NSERC](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program). Previously, I did my undergrad in CS + Math at [UWaterloo](https://uwaterloo.ca/).
 
-I'm currently interested in:
-<ul>
-  <li><b>LLM Reasoning and Test-Time Scaling</b>: understanding and improving how LLMs adapt, reason, and self-improve at inference time.</li>
-  <li><b>World Models and Embodied Reasoning</b>: learning world models from video and interaction data and leveraging them as simulators, planners, and co-training objectives.</li>
-</ul>
-<!-- To achieve these goals, I build upon various methods from test-time training, in-context learning, and diffusion guidance. -->
+I'm broadly interested in researching foundation models that perceive, reason, and act. I currently work on **VLA and world models** at [NVIDIA](https://research.nvidia.com/labs/avg/), and after, on **LLM reasoning and agents** at [Meta](https://ai.meta.com/people/1163645124801199/jason-weston/). Before these, I did research and engineering for autonomous driving and ML for health at [NVIDIA](https://research.nvidia.com/labs/sil/),  [Waabi/Uber-ATG](https://waabi.ai/),  [IBM](https://www.ibm.com/products/cognos-analytics), and [DarwinAI](https://www.bloomberg.com/news/articles/2024-03-14/apple-aapl-buys-canadian-ai-startup-darwinai-as-part-of-race-to-add-features), working with [Raquel Urtasun](https://www.cs.toronto.edu/~urtasun/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/), and [Alexander Wong](https://www.eng.uwaterloo.ca/~a28wong/).
 
-Previously, I did research and software engineering for autonomous driving and ML for health at <a href="https://research.nvidia.com/labs/toronto-ai/">NVIDIA</a>,  <a href="https://waabi.ai/">Waabi/Uber-ATG</a>,  <a href="https://www.ibm.com/products/cognos-analytics">IBM</a>, and <a href="https://www.bloomberg.com/news/articles/2024-03-14/apple-aapl-buys-canadian-ai-startup-darwinai-as-part-of-race-to-add-features">DarwinAI</a>. I was fortunate to have worked with <a href="https://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>, <a href="https://www.cs.utoronto.ca/~fidler/">Sanja Fidler</a>, and <a href="https://www.eng.uwaterloo.ca/~a28wong/">Alexander Wong</a>.
-
-I'm happy to discuss collaboration, mentorship, and research in general. You can <a href="mailto:yl11330@nyu.edu">email me</a> for a virtual or in-person chat. My office is at <a href="https://cds.nyu.edu/">60 5th Ave, New York</a>.
-
-<!-- You can find my CV <a href="assets/pdf/CV.pdf">here</a>. -->
+I'm happy to discuss collaboration, mentorship, and research in general. You can [email me](mailto:yl11330@nyu.edu) for a virtual or in-person chat. My office is at [60 5th Ave, New York](https://cds.nyu.edu/).

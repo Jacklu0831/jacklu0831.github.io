@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-01 00:00:00-0400
+date: 2024-04-25 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I started my PhD in Computer Science at NYU, advised by <a href="https://mengyeren.com/">Mengye Ren</a>.
+I was selected to receive the <a href="https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program">NSERC CGRS-D Scholarship</a> to support my PhD at NYU.
