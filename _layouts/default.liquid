@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang }}">
+<html lang="{{ site.lang }}"{% if site.color_scheme == 'dark' %} data-theme="dark"{% elsif site.color_scheme == 'mono' %} data-theme="mono"{% endif %}>
   <!-- Head -->
   <head>
     {% if page.redirect %}

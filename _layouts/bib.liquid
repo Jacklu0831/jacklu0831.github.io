@@ -15,11 +15,7 @@
               {{ venue_style }}
             {% endif -%}
           >
-            {% if site.data.venues[entry.abbr].url %}
-              <a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a>
-            {% else %}
-              <div>{{- entry.abbr -}}</div>
-            {% endif %}
+            {{- entry.abbr -}}
           </abbr>
         {% else %}
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>

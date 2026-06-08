@@ -35,7 +35,7 @@
   defer
   rel="stylesheet"
   href="{{ '/assets/css/jekyll-pygments-themes-github.css' | relative_url | bust_file_cache }}"
-  media=""
+  media="{% if site.color_scheme == 'dark' %}none{% endif %}"
   id="highlight_theme_light"
 >
 
@@ -70,14 +70,16 @@
 
 <!-- Dark Mode -->
 <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
-{% if site.enable_darkmode %}
+{% if site.enable_darkmode or site.color_scheme == 'dark' %}
   <link
     defer
     rel="stylesheet"
     href="{{ '/assets/css/jekyll-pygments-themes-native.css' | relative_url | bust_file_cache }}"
-    media="none"
+    media="{% unless site.color_scheme == 'dark' %}none{% endunless %}"
     id="highlight_theme_dark"
   >
+{% endif %}
+{% if site.enable_darkmode %}
   <script>
     initTheme();
   </script>

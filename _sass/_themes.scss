@@ -3,7 +3,7 @@
  ******************************************************************************/
 
 :root {
-  --global-bg-color: #{$white-color};
+  --global-bg-color: #eef1f5; // cool-gray canvas (faint blue undertone, pairs with theme blue) so white cards/newsletter/profile float
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
@@ -104,6 +104,66 @@ html[data-theme="dark"] {
   }
   .repo-img-dark {
     display: block;
+  }
+}
+
+html[data-theme="mono"] {
+  // Monochrome "ink" preset: black on a white canvas, no accent color. Hyperlinks are
+  // distinguished by an underline (rules below) instead of color. Paper figures and other
+  // images keep their color — mono is built from color variables, not a grayscale filter,
+  // so images are never desaturated. Semantic callout blocks (tip/warning/danger) inherit
+  // their colors from :root.
+  --global-bg-color: #ffffff;
+  --global-code-bg-color: rgba(0, 0, 0, 0.05);
+  --global-text-color: #000000;
+  --global-text-color-light: #4a4a4a;
+  --global-theme-color: #000000;
+  --global-hover-color: #000000;
+  --global-hover-text-color: #ffffff;
+  --global-footer-bg-color: #000000;
+  --global-footer-text-color: #ffffff;
+  --global-footer-link-color: #ffffff;
+  --global-distill-app-color: #000000;
+  --global-divider-color: rgba(0, 0, 0, 0.18);
+  --global-card-bg-color: #ffffff;
+  --global-highlight-color: #000000;
+  --global-back-to-top-bg-color: rgba(0, 0, 0, 0.7);
+  --global-back-to-top-text-color: #ffffff;
+  --global-newsletter-bg-color: #ffffff;
+  --global-newsletter-text-color: #000000;
+
+  // White canvas → show the light variant of repo cards.
+  .repo-img-light {
+    display: block;
+  }
+  .repo-img-dark {
+    display: none;
+  }
+
+  // Underline content hyperlinks (no accent color distinguishes them). The navbar and footer
+  // live outside [role="main"], so they stay clean. Within the content, reset chrome-like
+  // links (buttons, pagination, section titles, icon-only links) where an underline looks broken.
+  [role="main"] a {
+    text-decoration: underline;
+  }
+  [role="main"] .btn,
+  [role="main"] .page-link,
+  [role="main"] .profile-social a,
+  [role="main"] .social a,
+  [role="main"] .contact-icons a,
+  [role="main"] h1 a,
+  [role="main"] h2 a,
+  [role="main"] h3 a,
+  [role="main"] h4 a,
+  [role="main"] a:has(> i:only-child),
+  [role="main"] a:has(> .ai:only-child) {
+    text-decoration: none;
+  }
+
+  // "Everything in black": collapse colorful code syntax highlighting to mono ink.
+  .highlight,
+  .highlight * {
+    color: var(--global-text-color) !important;
   }
 }
 
