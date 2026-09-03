@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was selected to receive the <a href="https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program">NSERC CGRS-D Scholarship</a> to support my PhD at NYU.
+I was selected to receive the <a href="https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program">NSERC PGS-D Scholarship</a> to support my PhD at NYU.
