@@ -1,15 +1,56 @@
 ---
 ---
 
-@misc{ICML2026Workshop,
-  abbr={ICML},
-  title={The Surprising Effectiveness of Deleting Weights in LLM Reasoning and Adaptation},
+@misc{Preprint2026TacitVLA,
+  abbr={Preprint},
+  title={TacitVLA: Reasoning Vision-Language-Action Models Without Reasoning Latency},
+  author={Lu, Jack and You, Yurong and Li, Boyi and Cao, Yulong and Tian, Thomas and Xiao, Chaowei and Chen, Xiangyu and Luo, Wenjie and Ivanovic, Boris and Pavone, Marco and Wang, Yan},
+  year={2026},
+  additional_info={<em>Under review</em>},
+  selected={true},
+  website={https://tacitvla.github.io/},
+  preview={tacitvla.png},
+}
+
+@article{NeurIPS2026DeletingWeights,
+  abbr={NeurIPS},
+  title={The Surprising Effectiveness of Deleting Weights in LLM Post-Training},
   author={Lu*, Jack and Yang*, Zhenbang and Lasby, Mike and Pote, Tejas and Ioannou, Yani and Ren, Mengye},
   year={2026},
-  additional_info={<em>ICML Workshop on Foundations of Deep Generative Models</em>},
+  additional_info={<em>Conference on Neural Information Processing Systems (NeurIPS)</em>; also <em>ICML Workshop on Foundations of Deep Generative Models</em>},
   selected={true},
-  pdf={https://openreview.net/pdf?id=JnfolztAV3},
+  website={https://deleting-weights.github.io/},
+  pdf={https://openreview.net/forum?id=JnfolztAV3},
   preview={bmt.png},
+  poster={icml2026-poster-deleting-weights.pdf},
+}
+
+@article{COLM2026HyperThink,
+  abbr={COLM},
+  title={HyperThink: Text-to-Parameter Hypernetworks for Efficient Reasoning},
+  author={Kim*, Donggyun and Lu*, Jack and Kim, Chanwoo and Ren, Mengye and Hong, Seunghoon},
+  year={2026},
+  additional_info={<em>Conference on Language Modeling (COLM)</em>},
+  selected={true},
+  website={https://hyperthink-llm.github.io/},
+  pdf={https://arxiv.org/abs/2610.03039},
+  preview={hyperthink.png},
+  poster={colm2026-poster-hyperthink.pdf},
+}
+
+@misc{ICLR2026Verification,
+  abbr={ICLRW},
+  title={When Does Verification Pay Off? A Closer Look at LLMs as Solution Verifiers},
+  author={Lu*, Jack and Teehan*, Ryan and Jin, Jinran and Ren, Mengye},
+  year={2026},
+  additional_info={<em>ICLR 2026 Workshop on AI with Recursive Self-Improvement</em>},
+  selected={true},
+  website={https://agenticlearning.ai/llm-verification/},
+  pdf={https://arxiv.org/abs/2512.02304},
+  code={https://github.com/agentic-learning-ai-lab/llm-verification},
+  preview={llmverification.png},
+  poster={iclr2026-poster-llm-verification.pdf},
+  dataset={https://huggingface.co/datasets/Jacklu0831/llm-verification-raw},
 }
 
 @article{ICML2026,
@@ -23,19 +64,20 @@
   pdf={https://arxiv.org/abs/2507.04221},
   code={https://github.com/agentic-learning-ai-lab/context-tuning},
   preview={context-tuning.png},
+  poster={icml2026-poster-context-tuning.pdf},
 }
 
-@misc{ICLR2026Verification,
-  abbr={ICLR},
-  title={When Does Verification Pay Off? A Closer Look at LLMs as Solution Verifiers},
-  author={Lu*, Jack and Teehan*, Ryan and Jin, Jinran and Ren, Mengye},
+@article{NeurIPS2026Solaris,
+  abbr={NeurIPS},
+  title={Solaris: Building a Multiplayer Video World Model in Minecraft},
+  author={Savva*, Georgy and Michel*, Oscar and Lu*, Daohan and Waiwitlikhit, Suppakit and Meehan, Timothy and Mishra, Dhairya and Poddar, Srivats and Lu, Jack and Xie, Saining},
   year={2026},
-  additional_info={<em>ICLR Workshop on AI with Recursive Self-Improvement</em>},
+  additional_info={<em>Conference on Neural Information Processing Systems (NeurIPS)</em>, Spotlight},
   selected={true},
-  website={https://agenticlearning.ai/llm-verification/},
-  pdf={https://arxiv.org/abs/2512.02304},
-  code={https://github.com/agentic-learning-ai-lab/llm-verification},
-  preview={llmverification.png},
+  website={https://solaris-wm.github.io/},
+  pdf={https://arxiv.org/abs/2602.22208},
+  code={https://github.com/solaris-wm/solaris},
+  preview={solaris.png},
 }
 
 @misc{ICLR2026SkillFactory,
@@ -50,19 +92,6 @@
   preview={skillfactory.png},
 }
 
-@misc{ArXiv,
-  abbr={ArXiv},
-  title={Solaris: Building a Multiplayer Video World Model in Minecraft},
-  author={Savva, Georgy and Michel, Oscar and Lu, Daohan and Waiwitlikhit, Suppakit and Meehan, Timothy and Mishra, Dhairya and Poddar, Srivats and Lu, Jack and Xie, Saining},
-  year={2025},
-  additional_info={},
-  selected={true},
-  website={https://solaris-wm.github.io/},
-  pdf={https://arxiv.org/abs/2602.22208},
-  code={https://github.com/solaris-wm/solaris},
-  preview={solaris.png},
-}
-
 @article{ECCV2024,
   abbr={ECCV},
   title={ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation},
@@ -75,8 +104,8 @@
   pdf={https://arxiv.org/abs/2408.02226},
   code={https://github.com/agentic-learning-ai-lab/procreate-diffusion},
   preview={procreate.png},
+  dataset={https://huggingface.co/datasets/Jacklu0831/few-shot-creative-generation-8},
 }
-preview={procreate.png},
 
 @article{ICRA2024,
   abbr={ICRA},
@@ -88,7 +117,7 @@ preview={procreate.png},
   website={https://waabi.ai/scenecontrol/},
   video={https://research-assets.waabi.ai/SceneControl/video-long.mp4},
   pdf={https://research-assets.waabi.ai/SceneControl/paper.pdf},
-  preview={scenecontrol.png},
+  preview={scenecontrol-fig1.png},
 }
 
 @article{Frontiers2021,
@@ -101,5 +130,5 @@ preview={procreate.png},
   website={https://github.com/darwinai/FibrosisNet},
   pdf={https://arxiv.org/abs/2103.04008},
   code={https://github.com/darwinai/FibrosisNet},
-  preview={explainability.png},
+  preview={fibrosis-net.png},
 }

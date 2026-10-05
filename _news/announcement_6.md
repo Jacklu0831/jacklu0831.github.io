@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2512.04072">SkillFactory: Self-Distillation For Learning Cognitive Behaviors</a> is accepted by ICLR 2026.
+<a href="https://arxiv.org/abs/2512.04072">SkillFactory: Self-Distillation For Learning Cognitive Behaviors</a> is accepted by ICLR 2026. See ya in 🇧🇷

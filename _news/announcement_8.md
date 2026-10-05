@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://procreate-diffusion.github.io/">ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation</a> is accepted by ECCV 2024.
+<a href="https://agenticlearning.ai/procreate/">ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation</a> is accepted by ECCV 2024. See ya in 🇮🇹

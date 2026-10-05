@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2512.02304">When Does Verification Pay Off? A Closer Look at LLMs as Solution Verifiers</a> is featured by NYU Center of Data Science <a href="https://nyudatascience.medium.com/study-reveals-ai-models-are-biased-toward-solutions-that-resemble-their-own-reasoning-ec96b29087c5">here</a> and subsequently accepted by ICLR 2026 AI with Recursive Self-Improvement workshop.
+<a href="https://arxiv.org/abs/2512.02304">When Does Verification Pay Off? A Closer Look at LLMs as Solution Verifiers</a> is accepted by the ICLR 2026 Workshop on AI with Recursive Self-Improvement and <a href="https://nyudatascience.medium.com/study-reveals-ai-models-are-biased-toward-solutions-that-resemble-their-own-reasoning-ec96b29087c5">featured by the NYU Center for Data Science</a>.

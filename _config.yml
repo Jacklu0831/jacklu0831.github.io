@@ -11,11 +11,12 @@ description: Jack Lu — surviving a PhD at NYU.
 footer_text:
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🤔 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🔍 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://jacklu-me.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
+show_footer: false # no copyright or last-updated footer (Jack, October 5, 2026)
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: false # set to false to disable the back to top button
 
@@ -68,7 +69,7 @@ og_image: https://jacklu-me.com/assets/img/og.png # The site-wide (default for a
 
 acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
-cv_url: https://drive.google.com/file/d/1rC1LkRm7ZbqR6fMJsZl-2xYHLNpV_dXJ/view?usp=drive_link # your CV URL
+cv_url: /assets/pdf/Jack_Lu_CV.pdf # the one current CV; replace this file in place, never add a second
 bluesky_url: # your bluesky URL
 dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
@@ -107,8 +108,7 @@ x_username: jacklu_me # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  if you scrolled down to here, you're cool. have a good day!
+contact_note:
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -375,7 +375,7 @@ enable_publication_thumbnails: true
 
 # These are the defaults
 external_links:
-  enabled: true
+  enabled: false # every link opens in the same tab; Command-click opens a new one (Jack, October 5, 2026)
   rel: external nofollow noopener
   target: _blank
   exclude:

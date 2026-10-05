@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Arrived at <a href="https://research.nvidia.com/labs/avg/">NVIDIA</a> Santa Clara to work on VLA and world models. 10/10 ☀️, 0/10 walkability.
+Arrived at <a href="https://research.nvidia.com/labs/aspire/">NVIDIA</a> Santa Clara to work on VLA and world models. 10/10 ☀️, 0/10 walkability.

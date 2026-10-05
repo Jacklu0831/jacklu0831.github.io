@@ -108,12 +108,12 @@ html[data-theme="dark"] {
 }
 
 html[data-theme="mono"] {
-  // Monochrome "ink" preset: black on a white canvas, no accent color. Hyperlinks are
-  // distinguished by an underline (rules below) instead of color. Paper figures and other
+  // Monochrome "ink" preset: black on an off-white canvas, no accent color. Hyperlinks in
+  // the content are a muted navy and underlined (rules below). Paper figures and other
   // images keep their color — mono is built from color variables, not a grayscale filter,
   // so images are never desaturated. Semantic callout blocks (tip/warning/danger) inherit
   // their colors from :root.
-  --global-bg-color: #ffffff;
+  --global-bg-color: #f6f6f6;
   --global-code-bg-color: rgba(0, 0, 0, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #4a4a4a;
@@ -125,11 +125,11 @@ html[data-theme="mono"] {
   --global-footer-link-color: #ffffff;
   --global-distill-app-color: #000000;
   --global-divider-color: rgba(0, 0, 0, 0.18);
-  --global-card-bg-color: #ffffff;
+  --global-card-bg-color: #f6f6f6;
   --global-highlight-color: #000000;
   --global-back-to-top-bg-color: rgba(0, 0, 0, 0.7);
   --global-back-to-top-text-color: #ffffff;
-  --global-newsletter-bg-color: #ffffff;
+  --global-newsletter-bg-color: #f6f6f6;
   --global-newsletter-text-color: #000000;
 
   // White canvas → show the light variant of repo cards.
@@ -140,10 +140,15 @@ html[data-theme="mono"] {
     display: none;
   }
 
-  // Underline content hyperlinks (no accent color distinguishes them). The navbar and footer
-  // live outside [role="main"], so they stay clean. Within the content, reset chrome-like
-  // links (buttons, pagination, section titles, icon-only links) where an underline looks broken.
+  // Content hyperlinks are muted navy and underlined. The navbar and footer live outside
+  // [role="main"], so they stay black. Within the content, chrome-like links (buttons,
+  // pagination, section titles, icon-only links) keep the ink color and no underline.
   [role="main"] a {
+    color: #173b6c;
+    text-decoration: underline;
+  }
+  [role="main"] a:hover {
+    color: #173b6c;
     text-decoration: underline;
   }
   [role="main"] .btn,
@@ -157,6 +162,7 @@ html[data-theme="mono"] {
   [role="main"] h4 a,
   [role="main"] a:has(> i:only-child),
   [role="main"] a:has(> .ai:only-child) {
+    color: var(--global-theme-color);
     text-decoration: none;
   }
 

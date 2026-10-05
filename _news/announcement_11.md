@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my PhD in Computer Science at NYU, advised by <a href="https://mengyeren.com/">Mengye Ren</a>.
+Started my PhD in Computer Science at NYU, advised by <a href="https://mengyeren.com/">Mengye Ren</a>.

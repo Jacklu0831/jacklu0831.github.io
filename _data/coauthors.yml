@@ -55,11 +55,11 @@
 
 "yang":
   - firstname: ["Zhenbang"]
-    url: https://www.linkedin.com/in/zhenbang-yang-625b6a2a4/
+    url: https://agenticlearning.ai/people/zhenbang-yang/
 
 "jin":
   - firstname: ["Jinran"]
-    url: https://www.linkedin.com/in/jinran-jin-093252319
+    url: https://agenticlearning.ai/people/jinran-jin/
 
 "sprague":
   - firstname: ["Zayne"]
@@ -112,3 +112,62 @@
 "ioannou":
   - firstname: ["Yani"]
     url: https://yani.ai/
+
+"kim":
+  - firstname: ["Donggyun"]
+    url: https://gitgyun.github.io/
+
+  - firstname: ["Chanwoo"]
+    url: https://cwhoaon.github.io/
+
+"hong":
+  - firstname: ["Seunghoon"]
+    url: https://maga33.github.io/
+
+"poddar":
+  - firstname: ["Srivats"]
+    url: https://openreview.net/profile?id=~Srivats_Poddar1
+
+"you":
+  - firstname: ["Yurong"]
+    url: https://www.yurongyou.com/
+
+"li":
+  - firstname: ["Boyi"]
+    url: https://sites.google.com/site/boyilics/home
+
+"cao":
+  - firstname: ["Yulong"]
+    url: https://kikacaty.github.io/
+
+"tian":
+  - firstname: ["Thomas"]
+    url: https://thomasrantian.github.io/
+
+"xiao":
+  - firstname: ["Chaowei"]
+    url: https://xiaocw11.github.io/
+
+"chen":
+  - firstname: ["Xiangyu"]
+    url: https://www.cs.cornell.edu/~xchen/
+
+"luo":
+  - firstname: ["Wenjie"]
+    url: https://www.cs.toronto.edu/~wenjie/
+
+"ivanovic":
+  - firstname: ["Boris"]
+    url: https://www.borisivanovic.com/
+
+"pavone":
+  - firstname: ["Marco"]
+    url: https://web.stanford.edu/~pavone/
+
+"wang":
+  - firstname: ["Yan"]
+    url: https://www.yanwang.org/
+
+"meehan":
+  - firstname: ["Timothy"]
+    url: https://www.linkedin.com/in/timothy-meehan-b82085292/

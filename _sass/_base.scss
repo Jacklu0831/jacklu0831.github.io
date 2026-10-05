@@ -206,8 +206,15 @@ ul.task-list input[type="checkbox"] {
 }
 
 @media (min-width: 576px) {
+  // The social icons under the photo sit in two centered lines (Jack, October 5, 2026).
+  .profile .contact-icons {
+    max-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .profile {
-    width: 30%;
+    width: 26.5%;
 
     .address {
       p {
