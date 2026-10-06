@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2408.02226">ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation</a> is accepted by ECCV 2024. See ya in 🇮🇹
+<a href="https://arxiv.org/abs/2408.02226">ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation</a> is accepted by ECCV 2024. <a href="/assets/img/see-ya-in-italy.jpg">See ya in 🇮🇹</a>

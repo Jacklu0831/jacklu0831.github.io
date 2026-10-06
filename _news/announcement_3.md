@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2507.04221">Context Tuning for In-Context Optimization</a> is accepted by ICML 2026. <a href="/assets/img/see-ya-in-korea.png">See ya in 🇰🇷</a>
+<a href="https://arxiv.org/abs/2507.04221">Context Tuning for In-Context Optimization</a> is accepted by ICML 2026. <a href="/assets/img/see-ya-in-korea.jpg">See ya in 🇰🇷</a>
