@@ -109,7 +109,7 @@ html[data-theme="dark"] {
 
 html[data-theme="mono"] {
   // Monochrome "ink" preset: black on an off-white canvas, no accent color. Hyperlinks in
-  // the content are a muted navy and underlined (rules below). Paper figures and other
+  // the content are a medium blue without underline, darkening on hover (rules below). Paper figures and other
   // images keep their color — mono is built from color variables, not a grayscale filter,
   // so images are never desaturated. Semantic callout blocks (tip/warning/danger) inherit
   // their colors from :root.
@@ -140,16 +140,17 @@ html[data-theme="mono"] {
     display: none;
   }
 
-  // Content hyperlinks are muted navy and underlined. The navbar and footer live outside
+  // Content hyperlinks are a medium blue with no underline; the color alone marks them against
+  // the black text, and hover darkens them to navy. The navbar and footer live outside
   // [role="main"], so they stay black. Within the content, chrome-like links (buttons,
-  // pagination, section titles, icon-only links) keep the ink color and no underline.
+  // pagination, section titles, icon-only links) keep the ink color.
   [role="main"] a {
-    color: #173b6c;
-    text-decoration: underline;
+    color: #1a5fb4;
+    text-decoration: none;
   }
   [role="main"] a:hover {
     color: #173b6c;
-    text-decoration: underline;
+    text-decoration: none;
   }
   [role="main"] .btn,
   [role="main"] .page-link,

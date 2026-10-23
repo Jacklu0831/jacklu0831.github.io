@@ -40,7 +40,7 @@ table.table a {
 
   &:hover {
     color: var(--global-theme-color);
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   &:hover:after :not(.nav-item.dropdown) {
@@ -720,7 +720,7 @@ footer.sticky-bottom {
 
       .author {
         a {
-          text-decoration: underline;
+          text-decoration: none;
         }
 
         > em {
@@ -768,10 +768,6 @@ footer.sticky-bottom {
           height: 100%;
           padding-right: 0.5rem;
           vertical-align: middle;
-
-          &:hover {
-            text-decoration: underline;
-          }
         }
       }
 
