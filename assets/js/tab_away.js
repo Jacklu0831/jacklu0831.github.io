@@ -1,0 +1,1 @@
+!function(){var t;document.addEventListener("visibilitychange",function(){document.hidden?(t=t||document.title,document.title="(\u256f\xb0\u25a1\xb0\uff09\u256f come back"):t&&(document.title=t)})}();
